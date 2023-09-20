@@ -1,7 +1,5 @@
 ## Welcome to my profile!
 
-Feel free to see a little about me
-
 ---
 
 ## About Me
