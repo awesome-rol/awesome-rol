@@ -35,5 +35,5 @@ Frontend developer and Development student. I'm a highly motivated and hardworki
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-303030?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/awesome-rol/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://www.linkedin.com/in/awesome-rol/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-303030?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/miguel-nogueira-a7b9a922a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio-mgnogueira.vercel.app/)
